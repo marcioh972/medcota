@@ -157,10 +157,9 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 ```bash
 # Clone este repositório
-git clone https://github.com/seu-usuario/seu-repo.git
-
+git clone https://github.com/marcioh972/medcota
 # Acesse a pasta do projeto
-cd seu-repo
+cd medcota
 ```
 
 **Backend (`medcota/`)**

@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/oxlint/configuration_schema.json",
+  "plugins": ["react", "typescript", "import"],
+  "categories": { "correctness": "error" },
+  "overrides": [
+    {
+      // componentes copiados do shadcn exportam variantes/hooks junto com o componente (padrão do projeto)
+      "files": ["src/components/ui/**"],
+      "rules": { "react/only-export-components": "off" }
+    }
+  ]
+}

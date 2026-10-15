@@ -406,7 +406,7 @@ Sim. Use PostgreSQL em produção (`pip install -e ".[postgres]"` e ajuste `DATA
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/márcio-henrique-dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciomind19@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marciohenriquedev@gmail.com)
 
 
 </div>

@@ -16,14 +16,14 @@ Plataforma de **compras, cotações e conferência de notas fiscais** para empre
   <img src="https://img.shields.io/badge/testes%20frontend-84%20passando-success?style=flat-square" alt="84 testes no frontend">
 </p>
 
-<!--
-  Badges que dependem do repositório (descomente e troque seu-usuario/seu-repo depois de publicar no GitHub):
-  <img src="https://img.shields.io/github/license/seu-usuario/seu-repo?style=flat-square" alt="Licença">
-  <img src="https://img.shields.io/github/last-commit/seu-usuario/seu-repo?style=flat-square" alt="Último commit">
-  <img src="https://img.shields.io/github/issues/seu-usuario/seu-repo?style=flat-square" alt="Issues abertas">
--->
+<br>
+  
+  <img src="https://img.shields.io/github/license/marcioh972/medcota?style=flat-square" alt="Licença">
+  <img src="https://img.shields.io/github/last-commit/marcioh972/medcota?style=flat-square" alt="Último commit">
+  <img src="https://img.shields.io/github/issues/marcioh972/medcota?style=flat-square" alt="Issues abertas">
 
-[API (Swagger)](http://localhost:8000/docs) · [Documentação do backend](./medcota/README.md) · [Documentação do frontend](./medcota-web/README.md) · [Reportar Bug](https://github.com/seu-usuario/seu-repo/issues) · [Solicitar Feature](https://github.com/seu-usuario/seu-repo/issues)
+
+[API (Swagger)](http://localhost:8000/docs) · [Documentação do backend](./medcota/README.md) · [Documentação do frontend](./medcota-web/README.md) · [Reportar Bug](https://github.com/marcioh972/medcota/issues) · [Solicitar Feature](https://github.com/marcioh972/medcota/issues)
 
 </div>
 
